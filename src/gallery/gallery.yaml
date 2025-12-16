@@ -165,7 +165,6 @@ images:
       description: 
       collections:
         - family
-        - featured
     exif: {}
   - path: family/family-8.jpg
     meta:
@@ -174,54 +173,4 @@ images:
       collections:
         - family
     exif: {}
-  - path: family/family-9.jpg
-    meta:
-      title: Family 9
-      description: 
-      collections:
-        - family
-        - featured
-    exif: {}
-  - path: family/family-10.jpg
-    meta:
-      title: Family 10
-      description: 
-      collections:
-        - family
-    exif: {}
-  - path: family/family-11.jpg
-    meta:
-      title: Family 11
-      description: 
-      collections:
-        - family
-    exif: {}
-  - path: family/family-12.jpg
-    meta:
-      title: Family 12
-      description: 
-      collections:
-        - family
-    exif: {}
-  - path: family/family-13.jpg
-    meta:
-      title: Family 13
-      description: 
-      collections:
-        - family
-    exif: {}
-  - path: family/family-14.jpg
-    meta:
-      title: Family 14
-      description: 
-      collections:
-        - family
-        - featured
-    exif: {}
-  - path: family/family-15.jpg
-    meta:
-      title: Family 15
-      description: 
-      collections:
-        - family
-    exif: {}
+ 
