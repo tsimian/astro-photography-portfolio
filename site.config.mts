@@ -8,16 +8,16 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
+	title: 'RL',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: 'Rob Lehmann',
 	profileImage: 'profile.webp',
 	socialLinks: [
-		{
-			name: 'GitHub',
-			url: 'https://github.com/rockem/astro-photography-portfolio',
-			icon: Github,
-		} as SocialLink,
+		// {
+		// 	name: 'GitHub',
+		// 	url: 'https://github.com/rockem/astro-photography-portfolio',
+		// 	icon: Github,
+		// } as SocialLink,
 		{
 			name: 'Instagram',
 			url: 'https://www.instagram.com',
