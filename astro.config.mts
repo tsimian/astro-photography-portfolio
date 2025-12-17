@@ -5,6 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
 	site: 'https://https://roblehmannphoto.com/',
 	// base: '/',
+	output: "static",
 	vite: {
 		plugins: [tailwindcss()],
 	},
