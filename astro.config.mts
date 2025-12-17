@@ -6,7 +6,7 @@ export default defineConfig({
 	site: 'https://https://roblehmannphoto.com/',
 	// base: '/',
 	output: "static",
-	outDir: './docs',
+	// outDir: './docs',
 	vite: {
 		plugins: [tailwindcss()],
 	},
