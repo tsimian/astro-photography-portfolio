@@ -3,6 +3,8 @@ collections:
     name: Events
   - id: family
     name: Family
+  - id: travel
+    name: Travel
 images:
   - path: events/event-1.jpg
     meta:
@@ -173,4 +175,125 @@ images:
       collections:
         - family
     exif: {}
- 
+  - path: travel/travel-1.jpg
+    meta:
+      title: Travel 1
+      description: 
+      collections:
+        - travel
+        - featured
+    exif: {}
+  - path: travel/travel-2.jpg
+    meta:
+      title: Travel 2
+      description: 
+      collections:
+        - travel
+    exif: {}
+  - path: travel/travel-3.jpg
+    meta:
+      title: Travel 3
+      description: 
+      collections:
+        - travel
+    exif: {}
+  - path: travel/travel-4.jpg
+    meta:
+      title: Travel 4
+      description: 
+      collections:
+        - travel
+        - featured
+    exif: {}
+  - path: travel/travel-5.jpg
+    meta:
+      title: Travel 5
+      description: 
+      collections:
+        - travel
+    exif: {}
+  - path: travel/travel-6.jpg
+    meta:
+      title: Travel 6
+      description: 
+      collections:
+        - travel
+    exif: {}
+  - path: travel/travel-7.jpg
+    meta:
+      title: Travel 7
+      description: 
+      collections:
+        - travel
+    exif: {}
+  - path: travel/travel-8.jpg
+    meta:
+      title: Travel 8
+      description: 
+      collections:
+        - travel
+    exif: {}
+  - path: travel/travel-9.jpg
+    meta:
+      title: Travel 9
+      description: 
+      collections:
+        - travel
+        - featured
+    exif: {}
+  - path: travel/travel-10.jpg
+    meta:
+      title: Travel 10
+      description: 
+      collections:
+        - travel
+    exif: {}
+  - path: travel/travel-11.jpg
+    meta:
+      title: Travel 11
+      description: 
+      collections:
+        - travel
+    exif: {}
+  - path: travel/travel-12.jpg
+    meta:
+      title: Travel 12
+      description: 
+      collections:
+        - travel
+    exif: {}
+  - path: travel/travel-13.jpg
+    meta:
+      title: Travel 13
+      description: 
+      collections:
+        - travel
+    exif: {}
+  - path: travel/travel-14.jpg
+    meta:
+      title: Travel 14
+      description: 
+      collections:
+        - travel
+    exif: {}
+  - path: travel/travel-15.jpg
+    meta:
+      title: Travel 15
+      description: 
+      collections:
+        - travel
+    exif: {}
+  - path: travel/travel-16.jpg
+    meta:
+      title: Travel 16
+      description: 
+      collections:
+        - travel
+    exif: {}
+  - path: travel/travel-17.jpg
+    meta:
+      title: Travel 17
+      description: 
+      collections:
+        - travel
+    exif: {}
