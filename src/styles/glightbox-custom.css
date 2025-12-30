@@ -1,6 +1,6 @@
 .glightbox-container .gslide-image img {
-	max-width: 95%;
-	max-height: 95%;
+	max-width: 95vw;
+	max-height: 95vh;
 	height: auto;
 	width: auto;
 	object-fit: contain;
@@ -14,7 +14,20 @@
 }
 
 .glightbox-container .gslide-description {
-	max-width: 90%;
+	max-width: 90vw;
 	color: #ccc;
 	font-size: 0.875rem;
+}
+
+/* Prevent GLightbox itself from scrolling or overflowing */
+.glightbox-container {
+	overflow: hidden;
+}
+
+.glightbox-container .gslide-image {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	max-width: 100vw;
+	max-height: 100vh;
 }
